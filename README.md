@@ -1,11 +1,12 @@
-# bmi
+# BMI Calculator
 
-A new Flutter project.
+A beautiful looking BMI Calculator created for personal use.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can clone this on your device and start using it.
 
+You can modify it as per your needs.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
