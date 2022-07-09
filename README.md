@@ -2,6 +2,8 @@
 
 A beautiful looking BMI Calculator created for personal use.
 
+Built this in 2021, when I was starting out with flutter.
+
 ## Getting Started
 
 You can clone this on your device and start using it.
